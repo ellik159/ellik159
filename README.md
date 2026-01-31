@@ -18,9 +18,9 @@ Building high-performance distributed systems with Python & Node.js
 
 ## 🚀 About Me
 
-I architect and deploy distributed systems for European R&D projects, working with **Edge Computing**, **IoT orchestration**, and **Zero-Trust architectures**. Currently leading technical infrastructure on the COP-PILOT project (Horizon Europe).
+I architect and deploy distributed systems for European R&D projects, working with Edge Computing, IoT orchestration, and Zero-Trust architectures. Currently, I am engineering the backend infrastructure for my company's contribution to the COP-PILOT project (Horizon Europe) and developing Intratrans for high-performance backend services.
 
-Also pursuing a **BSc in Physics** at UNIR, because apparently building scalable backend systems wasn't enough of a challenge. My brain context-switches between debugging Kubernetes pods and solving differential equations.
+Also pursuing a BSc in Physics at UNIR, because apparently building scalable backend systems wasn't enough of a challenge. My brain context-switches between debugging Kubernetes pods and solving differential equations.
 
 > *"In a universe with infinite quantum possibilities, I chose to debug async code at 3 AM"*
 
