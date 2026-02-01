@@ -1,3 +1,5 @@
+> [!NOTE]
+> 🦊 **Migration Notice:** The repositories in this profile have been migrated from **GitLab**.
 <div align="center">
 
 # Hey, I'm Mario 👋
